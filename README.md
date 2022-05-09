@@ -3,9 +3,9 @@
 ![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=radical)
+![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilonicemento)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilonicemento&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
 
