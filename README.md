@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilonicemento&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que uso no meu dia
+## Tecnologias que uso no meu dia a dia
 
 
 <div style = "display: Inline_block"><br>
