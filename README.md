@@ -26,3 +26,5 @@
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murilo-nascimento-boa-morte-415b3a221)<br>
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:murilo_nascimento22@outlook.com)
+
+![Snake animation](https://github.com/murilonicemento/murilonicemento/blob/output/github-contribution-grid-snake.svg)
