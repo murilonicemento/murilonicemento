@@ -25,10 +25,10 @@
 
 ## Contato
 <div>
-  <a target = "_blank" href = "https://www.linkedin.com/in/murilonicemento/"> 
+  <a href = "https://www.linkedin.com/in/murilonicemento/" target = "_blank"> 
      <img height = "38" width = "40" alt= "Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
-  <a target = "_blank" href = "mailto: murilo_nascimento22@outlook.com?subject=subject text" >
+  <a href = "mailto: murilo_nascimento22@outlook.com?subject=subject text" target = "_blank">
      <img height = "38" width = "40" alt= "e-mail" src="img/outlook.svg" />
   </a>
 </div>
