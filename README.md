@@ -25,11 +25,11 @@
 
 ## Contato
 <div>
-  <a href = "https://www.linkedin.com/in/murilonicemento/"> 
-     <img height = "38" width = "40" alt= "Linkedin" target = "_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <a target = "_blank" href = "https://www.linkedin.com/in/murilonicemento/"> 
+     <img height = "38" width = "40" alt= "Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
-  <a href = "mailto: murilo_nascimento22@outlook.com?subject=subject text" >
-     <img height = "38" width = "40" alt= "e-mail" target = "_blank" src="img/outlook.svg" />
+  <a target = "_blank" href = "mailto: murilo_nascimento22@outlook.com?subject=subject text" >
+     <img height = "38" width = "40" alt= "e-mail" src="img/outlook.svg" />
   </a>
 </div>
 
