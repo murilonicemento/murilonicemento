@@ -31,6 +31,9 @@
   <a href = "mailto: murilo_nascimento22@outlook.com?subject=subject text" target = "_blank">
      <img height = "38" width = "40" alt= "e-mail" src="img/outlook.svg" />
   </a>
+  <a href = "https://www.instagram.com/murilonasciment22/" target = "_blank">
+     <img height = "38" width = "40" alt= "e-mail" src="img/instagram.svg" />
+  </a>
 </div>
 
 ![Snake animation](https://github.com/murilonicemento/murilonicemento/blob/output/github-contribution-grid-snake.svg)
