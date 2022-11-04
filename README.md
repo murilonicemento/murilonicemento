@@ -21,14 +21,13 @@
 
 ## Estudando
 <div style = "display: inline_block">
-  <img height = "38" width = "40" alt= "PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img height = "38" width = "40" alt= "C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height = "38" width = "40" alt = "NODE.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
 ## Contato
 <div>
   <a href = "https://www.linkedin.com/in/murilonicemento/" target = "_blank"> 
-     <img height = "38" width = "40" alt= "Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+     <img height = "38" width = "40" al t= "Linkedin" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href = "mailto: murilo_nascimento22@outlook.com?subject=subject text" target = "_blank">
      <img height = "38" width = "40" alt= "e-mail" src="img/outlook.svg" />
