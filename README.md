@@ -1,5 +1,5 @@
 ### Olá! Eu sou Murilo Nascimento 👋
-+ Estudante de Engenharia de Software (2º Período)
++ Estudante de Engenharia de Software (2º Semestre)
 + Estudante de Desenvolvimento Web
 + Soft Skills: Extremamente motivado, detalhista, preocupado em produzir trabalhos de qualidade, fascinado por inovação e tecnologia, sendo confiável e organizado. Estando sempre em busca de conhecimentos que possibilitem expandir minhas áreas de conhecimento e habilidades.
 
