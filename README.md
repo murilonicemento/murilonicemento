@@ -23,8 +23,6 @@
 <div style = "display: inline_block">
   <img height = "38" width = "40" alt = "NODE.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height = "38" width = "40" alt = "SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  <img height = "38" width = "40" alt = "REACT.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height = "38" width = "40" alt = "TYPESCRIPT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
 
 ## Contato
