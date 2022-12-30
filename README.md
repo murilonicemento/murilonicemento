@@ -15,20 +15,20 @@
   <img height = "38" width = "40" alt= "CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height = "38" width = "40" alt= "JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height = "38" width = "40" alt= "GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height = "38" width = "40" alt = "NODE.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height = "38" width = "40" alt= "VSCODE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  
 </div>
 
 ## Estudando
 <div style = "display: inline_block">
-  <img height = "38" width = "40" alt = "NODE.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height = "38" width = "40" alt = "SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  <img height = "38" width = "40" alt = "SQLILTE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  <img height = "38" width = "40" alt = "REACTJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
 ## Contato
 <div>
   <a href = "https://www.linkedin.com/in/murilonicemento/" target = "_blank"> 
-     <img height = "38" width = "40" al t= "Linkedin" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+     <img height = "38" width = "40" alt= "LinkedIn" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href = "mailto: murilo_nascimento22@outlook.com?subject=subject text" target = "_blank">
      <img height = "38" width = "40" alt= "e-mail" src="img/outlook.svg" />
