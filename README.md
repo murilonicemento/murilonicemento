@@ -11,7 +11,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=dracula&locale=en" alt="murilonicemento" />
-  <span align="left">
+  <span align="right">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilonicemento&show_icons=true&theme=dracula&locale=en&layout=compact" alt="murilonicemento" />
   </span>
   <div align="center">
