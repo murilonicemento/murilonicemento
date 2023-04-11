@@ -11,7 +11,9 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=dracula&locale=en" alt="murilonicemento" />
-  <img height="180em" style="margin-left: 30px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilonicemento&show_icons=true&theme=dracula&locale=en&layout=compact" alt="murilonicemento" />
+  <div align="right">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilonicemento&show_icons=true&theme=dracula&locale=en&layout=compact" alt="murilonicemento" />
+  </div>
   <div align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murilonicemento&theme=dark" alt="murilonicemento" />
   </div>
