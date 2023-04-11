@@ -1,43 +1,58 @@
-### Olá! Eu sou Murilo Nascimento 👋
-+ Estudante de Engenharia de Software (3º Semestre)
-+ Estudante de Desenvolvimento Web
-+ Soft Skills: Extremamente motivado, detalhista, preocupado em produzir trabalhos de qualidade, fascinado por inovação e tecnologia, sendo confiável e organizado. Estando sempre em busca de conhecimentos que possibilitem expandir minhas áreas de conhecimento e habilidades.
+<h1 align="center">Hi 👋, I'm Murilo Nascimento</h1>
+<h3 align="center">A Passionate Front-end Developer From Brazil</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=murilonicemento&label=Profile%20views&color=0e75b6&style=flat" alt="murilonicemento" /> </p>
+
+- 🌱 I’m currently learning **React.js**
+
+- 👨‍💻 All of my projects are available at [https://my-portfolio-chi-nine.vercel.app/](https://my-portfolio-chi-nine.vercel.app/)
+
+- 📫 How to reach me **murilo_nascimento22@outlook.com**
 
 <div>
-  <a href="https://github.com/murilonicemento">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilonicemento&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=dracula&locale=en" alt="murilonicemento" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilonicemento&show_icons=true&theme=dracula&locale=en&layout=compact" alt="murilonicemento" />
 </div>
 
-## Hard Skills
-<div style = "display: Inline_block">
-  <img height = "38" width = "40" alt= "HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
-  <img height = "38" width = "40" alt= "CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height = "38" width = "40" alt = "SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img height = "38" width = "40" alt= "JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height = "38" width = "40" alt= "GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height = "38" width = "40" alt = "SQLILTE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  <img height = "38" width = "40" alt= "VSCODE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</div>
+<span></span>
 
-## Estudando
-<div style = "display: inline_block">
-  <img height = "38" width = "40" alt = "REACTJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height = "38" width = "40" alt = "NODE.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height = "38" width = "40" alt = "TYPESCRIPT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murilonicemento&theme=dark" alt="murilonicemento" /></p>
 
-## Contato
-<div>
-  <a href = "https://www.linkedin.com/in/murilonicemento/" target = "_blank"> 
-     <img height = "38" width = "40" alt= "LinkedIn" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-  <a href = "mailto: murilo_nascimento22@outlook.com?subject=subject text" target = "_blank">
-     <img height = "38" width = "40" alt= "e-mail" src="img/outlook.svg" />
-  </a>
-  <a href = "https://www.instagram.com/murilonasciment22/" target = "_blank">
-     <img height = "38" width = "40" alt= "e-mail" src="img/instagram.svg" />
-  </a>
-</div>
+## Languages and Tools
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+</a>
+
+## Connect with me
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/murilonicemento/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/murilonicemento/" height="30" width="40" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/murilonasciment22/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/murilonasciment22/" height="30" width="40" />
+</a>
+<a href="https://stackoverflow.com/users/20331668" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20331668" height="30" width="40" />
+</a>
+<a href="https://discord.gg/4882" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4882" height="30" width="40" />
+</a>
 
 ![Snake animation](https://github.com/murilonicemento/murilonicemento/blob/output/github-contribution-grid-snake.svg)
