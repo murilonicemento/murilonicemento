@@ -10,8 +10,8 @@
 - 📫 How to reach me **murilo_nascimento22@outlook.com**
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=dracula&locale=en" alt="murilonicemento" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilonicemento&show_icons=true&theme=dracula&locale=en&layout=compact" alt="murilonicemento" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=dark&locale=en" alt="murilonicemento" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilonicemento&show_icons=true&theme=dark&locale=en&layout=compact" alt="murilonicemento" />
   <div align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murilonicemento&theme=dark" alt="murilonicemento" />
   </div>
