@@ -10,6 +10,7 @@
 - 📫 How to reach me **murilo_nascimento22@outlook.com**
 
 <div>
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=murilonicemento&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=dark&locale=en" alt="murilonicemento" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilonicemento&show_icons=true&theme=dark&locale=en&layout=compact" alt="murilonicemento" />
   <div align="center">
