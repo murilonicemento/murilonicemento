@@ -13,8 +13,10 @@
 <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=murilonicemento&theme=tokyo-night&hide_border=false&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
   <br/>
   <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=dark&locale=en" alt="murilonicemento" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilonicemento&show_icons=true&theme=dark&locale=en&layout=compact" alt="murilonicemento" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=dark&locale=en" alt="murilonicemento" />
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilonicemento&show_icons=true&theme=dark&locale=en&layout=compact" alt="murilonicemento" />
+  <br/>
+  <br/>
   <div align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murilonicemento&theme=dark" alt="murilonicemento" />
   </div>
