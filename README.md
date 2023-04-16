@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **React.js**
 
+- 💬 Ask me about **JavaScript and React.js**
+
 - 👨‍💻 All of my projects are available at [https://my-portfolio-chi-nine.vercel.app/](https://my-portfolio-chi-nine.vercel.app/)
 
 - 📫 How to reach me **murilo_nascimento22@outlook.com**
@@ -54,6 +56,9 @@
 </a>
 <a href="https://discord.gg/1412" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4882" height="30" width="40" />
+</a>
+<a href="https://twitter.com/murilonicemento" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="murilonicemento" height="30" width="40" />
 </a>
 
 ![Snake animation](https://github.com/murilonicemento/murilonicemento/blob/output/github-contribution-grid-snake.svg)
