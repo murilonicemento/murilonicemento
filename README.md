@@ -44,7 +44,8 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  
+ <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </a>
 
 ## Connect with me
@@ -58,7 +59,7 @@
 <a href="https://stackoverflow.com/users/20331668" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20331668" height="30" width="40" />
 </a>
-<a href="https://discord.gg/1412" target="blank">
+<a href="https://discord.com/users/1412" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4882" height="30" width="40" />
 </a>
 <a href="https://twitter.com/murilonicemento" target="blank">
