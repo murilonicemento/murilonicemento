@@ -59,6 +59,9 @@
 <a href="https://stackoverflow.com/users/20331668" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20331668" height="30" width="40" />
 </a>
+<a href="https://dev.to/murilonicemento" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="murilonicemento" height="30" width="40" />
+</a>
 <a href="https://discord.com/users/1412" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4882" height="30" width="40" />
 </a>
