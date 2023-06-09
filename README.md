@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js and TypeScript**
 
-- 💬 Ask me about **JavaScript and React.js**
+- 💬 Ask me about **anything you want**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-chi-nine.vercel.app/](https://my-portfolio-chi-nine.vercel.app/)
 
@@ -40,6 +40,9 @@
 </a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"        width="40" height="40"/> 
 </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  
  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
