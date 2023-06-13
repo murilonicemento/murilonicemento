@@ -3,24 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murilonicemento&label=Profile%20views&color=0e75b6&style=flat" alt="murilonicemento" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js and TypeScript**
 
-- 💬 Ask me about **JavaScript and React.js**
+- 💬 Ask me about **anything you want**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-chi-nine.vercel.app/](https://my-portfolio-chi-nine.vercel.app/)
 
 - 📫 How to reach me **murilo_nascimento22@outlook.com**
 
 <div>
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=murilonicemento&theme=tokyo-night&hide_border=false&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
-  <br/>
-  <br/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=dark&locale=en" alt="murilonicemento" />
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilonicemento&show_icons=true&theme=dark&locale=en&layout=compact" alt="murilonicemento" />
   <br/>
   <br/>
   <div align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murilonicemento&theme=dark" alt="murilonicemento" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=murilonicemento&theme=dark" alt="murilonicemento" />
   </div>
 </div>
 
@@ -44,13 +41,16 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
 </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"        width="40" height="40"/> 
+</a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  
  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </a>
 
 ## Connect with me
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/murilonicemento/" target="blank">
+<a href="https://linkedin.com/in/murilonicemento/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/murilonicemento/" height="30" width="40" />
 </a>
 <a href="https://www.hackerrank.com/murilo_nascimen3" target="blank">
@@ -65,7 +65,7 @@
 <a href="https://discord.com/users/1412" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4882" height="30" width="40" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/murilonasciment22/" target="blank">
+<a href="https://instagram.com/murilonicemento" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/murilonasciment22/" height="30" width="40" />
 </a>
 <a href="https://twitter.com/murilonicemento" target="blank">
