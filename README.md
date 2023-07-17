@@ -11,6 +11,10 @@
 
 - 📫 How to reach me **murilo_nascimento22@outlook.com**
 
+<div align="center">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=murilonicemento&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+</div>
+<br/><br/>
 <div>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=dark&locale=en" alt="murilonicemento" />
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilonicemento&show_icons=true&theme=dark&locale=en&layout=compact" alt="murilonicemento" />
