@@ -27,7 +27,7 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilonicemento&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="murilonicemento" />
   <br/>
   <br/>
-  <div align="center">
+  <div align="left">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=murilonicemento&theme=react&hide_border=true" alt="murilonicemento" />
   </div>
 </div>
