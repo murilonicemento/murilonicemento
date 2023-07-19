@@ -9,10 +9,15 @@
 
 - 💬 Ask me about <strong style="color: #61DAFB;">anything you want</strong>
 
-- 👨‍💻 All of my projects are available at <a href="https://my-portfolio-chi-nine.vercel.app/" style="color: #61DAFB; font-weight: 700">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://my-portfolio-chi-nine.vercel.app/" style="color: #61DAFB; font-weight: 700; text-decoration: none;">My Portfolio</a>
 
 - 📫 How to reach me <strong style="color: #61DAFB;">murilo_nascimento22@outlook.com</strong>
 
+<div align="right">
+  <a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://spotify-readme-u8sa.vercel.app/api?theme=dark" alt="Current Spotify Song">
+</a>
+</div>
 <div align="center">
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=murilonicemento&theme=react&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 </div>
@@ -25,16 +30,6 @@
   <div align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=murilonicemento&theme=react&hide_border=true" alt="murilonicemento" />
   </div>
-</div>
-
-<div align="center">
-  <img src="https://murilonicemento-github-readme-stats.vercel.app/api/wakatime?username=murilonicemento&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://spotify-readme-u8sa.vercel.app/api?theme=dark" alt="Current Spotify Song">
-</a>
 </div>
 
 ## Languages and Tools
