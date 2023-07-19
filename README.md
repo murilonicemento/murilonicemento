@@ -1,28 +1,40 @@
 <h1 align="center">Hi 👋, I'm Murilo Nascimento</h1>
 <h3 align="center">A Passionate Front-end Developer From Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=murilonicemento&label=Profile%20views&color=0e75b6&style=flat" alt="murilonicemento" /> </p>
+<div align="left">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=murilonicemento&repo=murilonicemento&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github do Murilo" height="28px" />
+</div>
 
-- 🌱 I’m currently learning **React.js and TypeScript**
+- 🌱 I’m currently learning <strong style="color: #61DAFB;">React.js and TypeScript</strong>
 
-- 💬 Ask me about **anything you want**
+- 💬 Ask me about <strong style="color: #61DAFB;">anything you want</strong>
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-chi-nine.vercel.app/](https://my-portfolio-chi-nine.vercel.app/)
+- 👨‍💻 All of my projects are available at <a href="https://my-portfolio-chi-nine.vercel.app/" style="color: #61DAFB; font-weight: 700">My Portfolio</a>
 
-- 📫 How to reach me **murilo_nascimento22@outlook.com**
+- 📫 How to reach me <strong style="color: #61DAFB;">murilo_nascimento22@outlook.com</strong>
 
 <div align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=murilonicemento&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=murilonicemento&theme=react&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 </div>
 <br/><br/>
 <div>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=dark&locale=en" alt="murilonicemento" />
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilonicemento&show_icons=true&theme=dark&locale=en&layout=compact" alt="murilonicemento" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=react&locale=en&hide_border=true" alt="murilonicemento" />
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilonicemento&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="murilonicemento" />
   <br/>
   <br/>
   <div align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=murilonicemento&theme=dark" alt="murilonicemento" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=murilonicemento&theme=react&hide_border=true" alt="murilonicemento" />
   </div>
+</div>
+
+<div align="center">
+  <img src="https://murilonicemento-github-readme-stats.vercel.app/api/wakatime?username=murilonicemento&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://spotify-readme-u8sa.vercel.app/api?theme=dark" alt="Current Spotify Song">
+</a>
 </div>
 
 ## Languages and Tools
@@ -76,4 +88,6 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="murilonicemento" height="30" width="40" />
 </a>
 
-![Snake animation](https://github.com/murilonicemento/murilonicemento/blob/output/github-contribution-grid-snake.svg)
+<img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
+
+<!-- ![Snake animation](https://github.com/murilonicemento/murilonicemento/blob/output/github-contribution-grid-snake.svg) -->
