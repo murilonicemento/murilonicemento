@@ -10,7 +10,7 @@
   <tr>
     <td height="43px">
       <b>
-       <a href="readme-en.md">English 🇺🇸</a>
+       <a href="README-en.md">English 🇺🇸</a>
       </b>
     </td>
   </tr>

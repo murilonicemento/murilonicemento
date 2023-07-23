@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td height="43px">
-      <a href="readme-en.md">English 🇺🇸</a>
+      <a href="README-en.md">English 🇺🇸</a>
     </td>
   </tr>
 </table>
