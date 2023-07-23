@@ -38,13 +38,13 @@
 </div>
 <br/><br/>
 <div>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=react&locale=pt-br&hide_border=true" alt="murilonicemento" />
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilonicemento&show_icons=true&theme=react&locale=pt-br&layout=compact&hide_border=true" alt="murilonicemento" />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=murilonicemento&theme=react&hide_border=true" alt="murilonicemento" />
+  
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilonicemento&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="murilonicemento" />
   <br/>
   <br/>
-  <div align="left">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=murilonicemento&theme=react&hide_border=true" alt="murilonicemento" />
-  </div>
+<div align="left">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=react&locale=en&hide_border=true" alt="murilonicemento" />
 </div>
 
 ## Linguagens e Ferramentas
