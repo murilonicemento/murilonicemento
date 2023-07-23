@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Murilo Nascimento</h1>
-<h3 align="center">Um Desenvolvedor Front-end do Brasil</h3>
+<h3 align="center">A Passionate Front-end Developer From Brazil</h3>
 
 <table align="right">
   <tr>
     <td height="43px">
-      <b>
         <a href="README.md">Português 🇧🇷</a>
-      </b>
     </td>
   </tr>
   <tr>
     <td height="43px">
-      <a href="readme-en.md">English 🇺🇸</a>
+      <b>
+       <a href="readme-en.md">English 🇺🇸</a>
+      </b>
     </td>
   </tr>
 </table>
@@ -20,26 +20,29 @@
   <img src="https://visitor-badge.feriirawann.repl.co/?username=murilonicemento&repo=murilonicemento&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github do Murilo" height="28px" />
 </div>
 
-- 🌱 Atualmente estou aprendendo <strong style="color: #61DAFB;">React.js e TypeScript</strong>
-- 💬 Pergunte-me sobre <strong style="color: #61DAFB;">qualquer coisa que você queira</strong>
-- 👨‍💻 Todos os meus projetos estão disponíveis em <a href="https://my-portfolio-chi-nine.vercel.app/" style="color: #61DAFB; font-weight: 700; text-decoration: none;">Meu Portfólio</a>
-- 📫 Como entrar em contato comigo: <strong style="color: #61DAFB;">murilo_nascimento22@outlook.com</strong>
+- 🌱 I’m currently learning <strong style="color: #61DAFB;">React.js and TypeScript</strong>
+
+- 💬 Ask me about <strong style="color: #61DAFB;">anything you want</strong>
+
+- 👨‍💻 All of my projects are available at <a href="https://my-portfolio-chi-nine.vercel.app/" style="color: #61DAFB; font-weight: 700; text-decoration: none;">My Portfolio</a>
+
+- 📫 How to reach me <strong style="color: #61DAFB;">murilo_nascimento22@outlook.com</strong>
 
 <div align="left">
   <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://spotify-readme-u8sa.vercel.app/api?theme=dark" alt="Música Atual no Spotify">
+  <img src="https://spotify-readme-u8sa.vercel.app/api?theme=dark" alt="Current Spotify Song">
 </a>
 </div>
 
-## Atividades
+## Activities
 
 <div align="center">
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=murilonicemento&theme=react&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 </div>
 <br/><br/>
 <div>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=react&locale=pt-br&hide_border=true" alt="murilonicemento" />
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilonicemento&show_icons=true&theme=react&locale=pt-br&layout=compact&hide_border=true" alt="murilonicemento" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=react&locale=en&hide_border=true" alt="murilonicemento" />
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilonicemento&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="murilonicemento" />
   <br/>
   <br/>
   <div align="left">
@@ -47,7 +50,7 @@
   </div>
 </div>
 
-## Linguagens e Ferramentas
+## Languages and Tools
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
@@ -74,7 +77,7 @@
  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </a>
 
-## Conecte-se comigo
+## Connect with me
 
 <a href="https://linkedin.com/in/murilonicemento/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/murilonicemento/" height="30" width="40" />
