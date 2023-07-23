@@ -21,8 +21,11 @@
 </div>
 
 - 🌱 Atualmente estou aprendendo <strong style="color: #61DAFB;">React.js e TypeScript</strong>
+
 - 💬 Pergunte-me sobre <strong style="color: #61DAFB;">qualquer coisa que você queira</strong>
+
 - 👨‍💻 Todos os meus projetos estão disponíveis em <a href="https://my-portfolio-chi-nine.vercel.app/" style="color: #61DAFB; font-weight: 700; text-decoration: none;">Meu Portfólio</a>
+
 - 📫 Como entrar em contato comigo: <strong style="color: #61DAFB;">murilo_nascimento22@outlook.com</strong>
 
 <div align="left">
