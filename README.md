@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Murilo Nascimento</h1>
+<h1 align="center">Olá 👋, Eu sou Murilo Nascimento</h1>
 <h3 align="center">Um Desenvolvedor Front-end do Brasil</h3>
 
 <table align="right">
