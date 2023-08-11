@@ -22,6 +22,8 @@
 
 - 🌱 Atualmente estou aprendendo <strong style="color: #61DAFB;">React.js e TypeScript</strong>
 
+- 🔭 Atualmente estou trabalhando em <strong>[Shortly](https://github.com/murilonicemento/url-shortening)</strong>
+
 - 💬 Pergunte-me sobre <strong style="color: #61DAFB;">qualquer coisa que você queira</strong>
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em <a href="https://my-portfolio-chi-nine.vercel.app/" style="color: #61DAFB; font-weight: 700; text-decoration: none;">Meu Portfólio</a>
