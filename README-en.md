@@ -22,11 +22,13 @@
 
 - 🌱 I’m currently learning <strong style="color: #61DAFB;">React.js and TypeScript</strong>
 
-- 🔭 I’m currently working on <strong>[Shortly](https://github.com/murilonicemento/url-shortening)</strong>
+- 🔭 I’m currently working on <strong style="color: #61DAFB;">[Shortly](https://github.com/murilonicemento/url-shortening)</strong>
 
 - 💬 Ask me about <strong style="color: #61DAFB;">anything you want</strong>
 
-- 👨‍💻 All of my projects are available at <a href="https://my-portfolio-chi-nine.vercel.app/" style="color: #61DAFB; font-weight: 700; text-decoration: none;">My Portfolio</a>
+- 👨‍💻 Some of my projects are available at <strong style="color: #61DAFB;">[My Portfolio](https://my-portfolio-chi-nine.vercel.app/projects)</strong>
+
+- 📝 I regularly write articles on <strong style="color: #61DAFB;">[Dev To](https://dev.to/murilonicemento)</strong>
 
 - 📫 How to reach me <strong style="color: #61DAFB;">murilo_nascimento22@outlook.com</strong>
 
