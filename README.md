@@ -20,7 +20,7 @@
   <img src="https://visitor-badge.feriirawann.repl.co/?username=murilonicemento&repo=murilonicemento&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github do Murilo" height="28px" />
 </div>
 
-- 🌱 Atualmente estou aprendendo <strong style="color: #61DAFB;">React.js e TypeScript</strong>
+- 🌱 Atualmente estou aprendendo <strong style="color: #61DAFB;">Vue.js</strong>
 
 - 🔭 Atualmente estou trabalhando em <strong>[Shortly](https://github.com/murilonicemento/url-shortening)</strong>
 
@@ -73,6 +73,9 @@
 </a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+</a>
+<a href="https://br.vuejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" />          
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"        width="40" height="40"/> 
