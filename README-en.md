@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning <strong style="color: #61DAFB;">Jest</strong>
 
-- 🔭 I’m currently working on <strong style="color: #61DAFB;">[Shortly](https://github.com/murilonicemento/url-shortening)</strong>
+- 🔭 I’m currently working on <strong style="color: #61DAFB;">[upload.ai](https://github.com/murilonicemento/upload-ai)</strong>
 
 - 💬 Ask me about <strong style="color: #61DAFB;">anything you want</strong>
 
