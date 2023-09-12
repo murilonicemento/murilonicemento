@@ -22,7 +22,7 @@
 
 - 🌱 Atualmente estou aprendendo <strong style="color: #61DAFB;">Jest</strong>
 
-- 🔭 Atualmente estou trabalhando em <strong>[upload.ai](https://github.com/murilonicemento/upload/ai)</strong>
+- 🔭 Atualmente estou trabalhando em <strong>[upload.ai](https://github.com/murilonicemento/upload-ai)</strong>
 
 - 💬 Pergunte-me sobre <strong style="color: #61DAFB;">qualquer coisa que você queira</strong>
 
