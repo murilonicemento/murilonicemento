@@ -20,7 +20,7 @@
   <img src="https://visitor-badge.feriirawann.repl.co/?username=murilonicemento&repo=murilonicemento&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github do Murilo" height="28px" />
 </div>
 
-- 🌱 Atualmente estou aprendendo <strong style="color: #61DAFB;">Jest</strong>
+- 🌱 Atualmente estou aprendendo <strong style="color: #61DAFB;">PHP</strong>
 
 - 🔭 Atualmente estou trabalhando em <strong>[upload.ai](https://github.com/murilonicemento/upload-ai)</strong>
 
