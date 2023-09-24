@@ -107,9 +107,6 @@
 <a href="https://instagram.com/murilonicemento" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/murilonasciment22/" height="30" width="40" />
 </a>
-<a href="https://twitter.com/murilonicemento" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="murilonicemento" height="30" width="40" />
-</a>
 
 <img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
 
