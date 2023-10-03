@@ -20,7 +20,7 @@
   <img src="https://visitor-badge.feriirawann.repl.co/?username=murilonicemento&repo=murilonicemento&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Profile Visit Counter on Murilo's Github" height="28px" />
 </div>
 
-- 🌐 Working with **React.js**, **TypeScript**, **PHP**, and **SQL**
+- 🌐  Working with **React.js**, **TypeScript**, **PHP**, and **SQL**
 - 🌱 Currently learning **MVC Architecture Pattern with PHP**
 - 🌇 Currently working at **[Teknisa](https://www.teknisa.com/)**
 - 👨‍💻 Some of my main projects are available on **[My Portfolio](https://my-portfolio-chi-nine.vercel.app/projects)**
