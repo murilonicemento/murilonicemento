@@ -35,22 +35,9 @@
 </a>
 </div>
 
- ![Status](./profile-3d-contrib/profile-night-green.svg)
 ## Atividades
 
-<div align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=murilonicemento&theme=react&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
-</div>
-<br/><br/>
-<div>
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=murilonicemento&theme=react&hide_border=true" alt="murilonicemento" />
-  
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilonicemento&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true&custom_title=Linguagens%20mais%20Utilizadas" alt="murilonicemento" />
-  <br/>
-  <br/>
-<div align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=react&locale=en&hide_border=true&custom_title=GitHub%20Status%20de%20Murilo%20Nascimento" alt="murilonicemento" />
-</div>
+![Atividades](./profile-3d-contrib/profile-night-green.svg)
 
 ## Linguagens e Ferramentas
 
