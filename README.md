@@ -49,10 +49,8 @@
 
 ## Conecte-se comigo
 
-<div>
-  <a href="https://skillicons.dev"   >
-    <img src="https://skillicons.dev/icons?i=linkedin,devto,discord" />
-  </a>
-</div>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/murilonicemento/)
+[![Dev To](https://skillicons.dev/icons?i=devto)](https://dev.to/murilonicemento)
+[![LinkedIn](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/yetiabominable)
 
 <img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
