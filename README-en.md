@@ -21,7 +21,7 @@
 </div>
 
 - 🧠 Working with **React.js**, **TypeScript**, **PHP**, and **SQL**
-- 🌱 Currently learning **MVC Architecture Pattern with PHP**
+- 🌱 Currently learning **Slim Framework**
 - 🌇 Currently working at **[Teknisa](https://www.teknisa.com/)**
 - 👨‍💻 Some of my main projects are available on **[My Portfolio](https://my-portfolio-chi-nine.vercel.app/projects)**
 

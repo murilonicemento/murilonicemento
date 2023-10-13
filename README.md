@@ -22,7 +22,7 @@
 
 - 🧠 Trabalhando com **React.js**, **TypeScript**, **PHP** e **SQL**
 
-- 🌱 Atualmente estou aprendendo **Padrão de Arquitetura MVC com PHP**
+- 🌱 Atualmente estou aprendendo **Slim Framework**
 
 - 🌇 Atualmente estou trabalhando na **[Teknisa](https://www.teknisa.com/)**
 
