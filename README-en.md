@@ -41,6 +41,8 @@
 
 ## Connect with Me
 
-![Connect](https://skillicons.dev/icons?i=linkedin,devto,discord)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/murilonicemento/)
+[![Dev To](https://skillicons.dev/icons?i=devto)](https://dev.to/murilonicemento)
+[![LinkedIn](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/yetiabominable)
 
 ![Animated Footer Waves](./images/animated-waves.svg)
