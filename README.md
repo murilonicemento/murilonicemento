@@ -17,7 +17,7 @@
 </table>
 
 <div align="left">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=murilonicemento&repo=murilonicemento&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github do Murilo" height="28px" />
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=murilonicemento&repo=murilonicemento&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=0f102e&contentType=svg" alt="Contador de Visitas do Perfil no Github do Murilo" height="28px" />
 </div>
 
 - 🧠 Trabalhando com **React.js**, **TypeScript**, **PHP** e **SQL**
@@ -53,4 +53,4 @@
 [![Dev To](https://skillicons.dev/icons?i=devto)](https://dev.to/murilonicemento)
 [![LinkedIn](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/yetiabominable)
 
-<img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
+![Animated Footer Waves](./images/animated-waves.svg)
