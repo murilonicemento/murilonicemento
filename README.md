@@ -20,7 +20,7 @@
   <img src="https://visitor-badge.feriirawann.repl.co/?username=murilonicemento&repo=murilonicemento&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=0f102e&contentType=svg" alt="Contador de Visitas do Perfil no Github do Murilo" height="28px" />
 </div>
 
-- 🧠 Trabalhando com **React.js**, **TypeScript**, **PHP** e **SQL**
+- 🧠 Trabalhando com **Zeedhi**, **JavaScript**, **PHP** e **SQL**
 
 - 🌱 Atualmente estou aprendendo **Slim Framework**
 
