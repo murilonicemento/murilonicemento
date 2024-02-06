@@ -17,7 +17,9 @@
 </table>
 
 <div align="left">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=murilonicemento&repo=murilonicemento&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=1c1b91&contentType=svg" alt="Profile Visit Counter on Murilo's Github" height="28px" />
+   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmurilonicemento%2Fmurilonicemento">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmurilonicemento%2Fmurilonicemento&countColor=%23151658&labelStyle=upper"alt="Profile Visit Counter on Murilo's Nascimento" />
+  </a>
 </div>
 
 - 🧠 Working with **Zeedhi**, **TypeScript**, **PHP**, and **SQL**
