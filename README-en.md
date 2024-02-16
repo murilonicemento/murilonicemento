@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Murilo Nascimento</h1>
-<h3 align="center">FullStack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <table align="right">
   <tr>
@@ -22,10 +22,17 @@
   </a>
 </div>
 
-- 🧠 Working with **Zeedhi**, **TypeScript**, **PHP**, and **SQL**
+- 🧠 Working with **Zeedhi**, **JavaScript**, **PHP**, and **SQL**
+
+- 🌇 Currently working at **Teknisa**
+
 - 🌱 Currently learning **Slim Framework**
-- 🌇 Currently working at **[Teknisa](https://www.teknisa.com/)**
-- 👨‍💻 Some of my main projects are available on **[My Portfolio](https://my-portfolio-chi-nine.vercel.app/projects)**
+
+- 📚 Currently reading **Data Structures and Algorithms with JavaScript**
+
+- 🎨 Created my own theme for VSCode, available at **[Northeirn](https://github.com/murilonicemento/northeirn-theme)**
+
+- 👨‍💻 Some of my main projects are available on **[My Portfólio](https://my-portfolio-chi-nine.vercel.app/projects)**
 
 <div align="left">
   <a href="https://github.com/tthn0/Spotify-Readme">

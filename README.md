@@ -24,9 +24,13 @@
 
 - 🧠 Trabalhando com **Zeedhi**, **JavaScript**, **PHP** e **SQL**
 
+- 🌇 Atualmente estou trabalhando na **[Teknisa](https://www.teknisa.com/)**
+
 - 🌱 Atualmente estou aprendendo **Slim Framework**
 
-- 🌇 Atualmente estou trabalhando na **[Teknisa](https://www.teknisa.com/)**
+- 📚 Atualmente estou lendo **Estruturas de Dados e Algoritmos com JavaScript**
+
+- 🎨 Criei meu próprio tema para o VSCode, disponível em **[Northeirn](https://github.com/murilonicemento/northeirn-theme)**
 
 - 👨‍💻 Alguns dos meus principais projetos estão disponíveis em **[Meu Portfólio](https://my-portfolio-chi-nine.vercel.app/projects)**
 
