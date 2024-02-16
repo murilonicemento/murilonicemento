@@ -17,10 +17,12 @@
 </table>
 
 <div align="left">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=murilonicemento&repo=murilonicemento&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=0f102e&contentType=svg" alt="Profile Visit Counter on Murilo's Github" height="28px" />
+   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmurilonicemento%2Fmurilonicemento">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmurilonicemento%2Fmurilonicemento&countColor=%23151658&labelStyle=upper"alt="Profile Visit Counter on Murilo's Nascimento" />
+  </a>
 </div>
 
-- 🧠 Working with **React.js**, **TypeScript**, **PHP**, and **SQL**
+- 🧠 Working with **Zeedhi**, **TypeScript**, **PHP**, and **SQL**
 - 🌱 Currently learning **Slim Framework**
 - 🌇 Currently working at **[Teknisa](https://www.teknisa.com/)**
 - 👨‍💻 Some of my main projects are available on **[My Portfolio](https://my-portfolio-chi-nine.vercel.app/projects)**

@@ -17,7 +17,9 @@
 </table>
 
 <div align="left">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=murilonicemento&repo=murilonicemento&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=cfb4e5&contentType=svg" alt="Contador de Visitas do Perfil no Github do Murilo" height="28px" />
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmurilonicemento%2Fmurilonicemento">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmurilonicemento%2Fmurilonicemento&countColor=%23151658&labelStyle=upper" alt="Contandor de visitas de Murilo Nascimento" />
+  </a>
 </div>
 
 - 🧠 Trabalhando com **Zeedhi**, **JavaScript**, **PHP** e **SQL**
