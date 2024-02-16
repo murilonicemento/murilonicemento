@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Murilo Nascimento</h1>
-<h3 align="center">Desenvolvedor FullStack</h3>
+<h3 align="center">Desenvolvedor Full Stack</h3>
 
 <table align="right">
   <tr>
@@ -17,7 +17,7 @@
 </table>
 
 <div align="left">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=murilonicemento&repo=murilonicemento&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=0f102e&contentType=svg" alt="Contador de Visitas do Perfil no Github do Murilo" height="28px" />
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=murilonicemento&repo=murilonicemento&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=cfb4e5&contentType=svg" alt="Contador de Visitas do Perfil no Github do Murilo" height="28px" />
 </div>
 
 - 🧠 Trabalhando com **Zeedhi**, **JavaScript**, **PHP** e **SQL**
@@ -27,7 +27,6 @@
 - 🌇 Atualmente estou trabalhando na **[Teknisa](https://www.teknisa.com/)**
 
 - 👨‍💻 Alguns dos meus principais projetos estão disponíveis em **[Meu Portfólio](https://my-portfolio-chi-nine.vercel.app/projects)**
-
 
 <div align="left">
   <a href="https://github.com/tthn0/Spotify-Readme">
@@ -42,9 +41,10 @@
 ## Linguagens e Ferramentas
 
 <div>
-  <a href="https://skillicons.dev"   >
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,react,styledcomponents,typescript,php,mysql,git" />
   </a>
+  
 </div>
 
 ## Conecte-se comigo
