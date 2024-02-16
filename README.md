@@ -18,7 +18,7 @@
 
 <div align="left">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmurilonicemento%2Fmurilonicemento">
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmurilonicemento%2Fmurilonicemento&countColor=%23151658&labelStyle=upper" alt="Contandor de visitas de Murilo Nascimento" />
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmurilonicemento%2Fmurilonicemento&countColor=%2313fba7&labelStyle=upper" alt="Contandor de visitas de Murilo Nascimento" />
   </a>
 </div>
 
