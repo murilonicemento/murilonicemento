@@ -1,5 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Murilo Nascimento</h1>
-<h3 align="center">Desenvolvedor Full Stack</h3>
+<h3 align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=13FBA7A7&random=false&width=435&lines=Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
+</h3>
 
 <table align="right">
   <tr>
