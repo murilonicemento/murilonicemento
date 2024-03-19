@@ -28,7 +28,7 @@
 
 - 🌇 Atualmente estou trabalhando na **[Teknisa](https://www.teknisa.com/)**
 
-- 🌱 Atualmente estou aprendendo **Slim Framework**
+- 🌱 Atualmente estou aprendendo **VueJS**
 
 - 📚 Atualmente estou lendo **Estruturas de Dados e Algoritmos com JavaScript**
 
