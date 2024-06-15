@@ -34,7 +34,7 @@
 
 - 🎨 Created my own theme for VSCode, available at **[Northeirn](https://github.com/murilonicemento/northeirn-theme)**
 
-- 👨‍💻 Some of my main projects are available on **[My Portfólio](https://my-portfolio-chi-nine.vercel.app/projects)**
+- 👨‍💻 Take a look at my portfolio **[My Portfólio](https://murilonicemento-portfolio.vercel.app/)**
 
 <div align="left">
   <a href="https://github.com/tthn0/Spotify-Readme">
