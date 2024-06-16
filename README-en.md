@@ -28,7 +28,7 @@
 
 - 🌇 Currently working at **Teknisa**
 
-- 🌱 Currently learning **VueJS**
+- 🌱 Currently learning **VueJS and C#**
 
 - 📚 Currently reading **Data Structures and Algorithms with JavaScript**
 
@@ -48,7 +48,7 @@
 
 ## <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Languages and Tools
 
-![Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,react,styledcomponents,typescript,php,mysql,git)
+![Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,vue,react,styledcomponents,typescript,php,mysql,git)
 
 ## Connect with Me
 
