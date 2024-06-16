@@ -50,7 +50,7 @@
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,react,styledcomponents,typescript,php,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,vue,react,styledcomponents,typescript,php,mysql,git" />
   </a>
   
 </div>
