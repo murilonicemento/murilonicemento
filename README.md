@@ -45,7 +45,7 @@
 ## Atividades
 
 ![Estatísticas GitHub Murilo](https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=dark&hide_border=true&locale=pt-br&rank_icon=github)
-[![Estatísticas WakaTime Murilo](https://github-readme-stats.vercel.app/api/wakatime?username=murilonicemento)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas WakaTime Murilo](https://github-readme-stats.vercel.app/api/wakatime?username=murilonicemento&theme=dark&hide_border=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=murilonicemento&hide_progress=true&theme=dark&hide_border=true&locale=pt-br)
 
 ## <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Linguagens e Ferramentas

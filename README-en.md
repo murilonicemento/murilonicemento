@@ -45,7 +45,7 @@
 ## Activities
 
 ![Murilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=murilonicemento&show_icons=true&theme=dark&hide_border=true&locale=en&rank_icon=github)
-[![MurilosWakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=murilonicemento)](https://github.com/anuraghazra/github-readme-stats)
+[![MurilosWakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=murilonicemento&theme=dark&hide_border=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murilonicemento&hide_progress=true&theme=dark&hide_border=true&locale=en)
 
 ## <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Languages and Tools
