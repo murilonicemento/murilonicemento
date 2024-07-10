@@ -28,7 +28,7 @@
 
 - 🌇 Currently working at **Teknisa**
 
-- 🌱 Currently learning **VueJS and C#**
+- 🌱 Currently learning **C#**
 
 - 📚 Currently reading **Data Structures and Algorithms with JavaScript**
 
