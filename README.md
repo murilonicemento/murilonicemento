@@ -30,7 +30,7 @@
 
 - 🌱 Atualmente estou aprendendo **C#**
 
-- 📚 Atualmente estou lendo **Estruturas de Dados e Algoritmos com JavaScript**
+<!-- - 📚 Atualmente estou lendo **Estruturas de Dados e Algoritmos com JavaScript** -->
 
 - 🎨 Criei meu próprio tema para o VSCode, disponível em **[Northeirn](https://github.com/murilonicemento/northeirn-theme)**
 
