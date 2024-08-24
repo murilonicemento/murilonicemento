@@ -24,7 +24,7 @@
   </a>
 </div>
 
-- 🧠 Working with **Zeedhi**, **JavaScript**, **PHP**, and **SQL**
+- 🧠 Working with **Zeedhi**, **TypeScript**, **JavaScript**, **PHP**
 
 - 🌇 Currently working at **Teknisa**
 
