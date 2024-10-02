@@ -24,7 +24,7 @@
   </a>
 </div>
 
-- 🧠 Trabalhando com **Zeedhi**, **JavaScript**, **PHP** e **SQL**
+- 🧠 Trabalhando com **Zeedhi**, **TypeScript**, **JavaScript**, **PHP**
 
 - 🌇 Atualmente estou trabalhando na **[Teknisa](https://www.teknisa.com/)**
 
