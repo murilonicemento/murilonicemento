@@ -28,9 +28,9 @@
 
 - 🌇 Currently working at **Teknisa**
 
-- 🌱 Currently learning **C#**
+- 🌱 Currently learning **ASP.NET Core**
 
-<!-- - 📚 Currently reading **Data Structures and Algorithms with JavaScript** -->
+- 📚 Currently reading **The Pragmatic Programmer**
 
 - 🎨 Created my own theme for VSCode, available at **[Northeirn](https://github.com/murilonicemento/northeirn-theme)**
 
@@ -52,7 +52,7 @@
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,vue,tailwindcss,php,mysql,linux,git" />
+     <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,vue,tailwindcss,php,mysql,git, cs,dotnet" />
   </a>
 </div>
 
@@ -61,4 +61,4 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/murilonicemento/)
 [![Dev To](https://skillicons.dev/icons?i=devto)](https://dev.to/murilonicemento)
 
-![Animated Footer Waves](./images/animated-waves.svg)
+<!-- ![Animated Footer Waves](./images/animated-waves.svg) -->
