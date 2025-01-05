@@ -52,7 +52,7 @@
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,php,mysql,git,cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=vue,javascript,typescript,cs,dotnet,php,mysql,git" />
   </a>
 </div>
 
