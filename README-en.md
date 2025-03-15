@@ -28,10 +28,6 @@
 
 - 🌇 Currently working at **Teknisa**
 
-- 🌱 Currently learning **ASP.NET Core**
-
-- 📚 Currently reading **The Pragmatic Programmer**
-
 - 🎨 Created my own theme for VSCode, available at **[Northeirn](https://github.com/murilonicemento/northeirn-theme)**
 
 - 👨‍💻 Take a look at my portfolio **[My Portfólio](https://murilonicemento.netlify.app/)**
