@@ -24,9 +24,7 @@
   </a>
 </div>
 
-- 🧠 Trabalhando com **Zeedhi**, **TypeScript**, **JavaScript**, **PHP**
-
-- 🌇 Atualmente estou trabalhando na **[Teknisa](https://www.teknisa.com/)**
+- 🌇 Atualmente estou trabalhando como **Desenvolvedor Full Stack**
 
 - 🎨 Criei meu próprio tema para o VSCode, disponível em **[Northeirn](https://github.com/murilonicemento/northeirn-theme)**
 
