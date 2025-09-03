@@ -46,7 +46,7 @@
 
 <div>
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,vue,cs,dotnet,php,postgresql,mongodb,docker,git" />
+      <img src="https://skillicons.dev/icons?i=html,css,sass,styledcomponents,javascript,typescript,react,vue,cs,dotnet,php,postgresql,mongodb,redis,elasticsearch,rabbitmq,docker,kubernetes,git,azure,postman,vscode,visualstudio,rider,gitlab,github,npm,pnpm" />
   </a>
 </div>
 
